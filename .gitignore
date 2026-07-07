@@ -1,0 +1,51 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Environment
+.env
+.env.local
+.env.*
+
+# Logs
+logs/
+*.log
+
+# Build
+dist/
+build/
+
+# Vite
+.vite/
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Coverage
+coverage/
+
+# Python cache
+.pytest_cache/
+
+# Model checkpoints (optional)
+*.h5
+*.ckpt
+
+# Mongo
+mongodb-data/
+
+# Misc
+*.tmp
